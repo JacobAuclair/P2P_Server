@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=name\ serverPort
+comment0.target=TCPSender(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Start\ the\ thread\ to\ connect\ and\ begin\ sending\r\n
+numComments=2
